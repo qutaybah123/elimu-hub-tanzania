@@ -1,0 +1,7 @@
+elimu-hub-tanzania/
+├── frontend/                 # React.js frontend
+├── backend/                  # Node.js + Express backend
+├── database/                 # PostgreSQL schema & migrations
+├── deployment/               # Docker & deployment configs
+├── documentation/           # Project docs
+└── README.md
